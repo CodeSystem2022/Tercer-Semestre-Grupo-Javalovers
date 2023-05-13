@@ -7,7 +7,7 @@ Trabajos semanales  del gruo Javalovers.
 
 
 | **Semana** | **Scrum Master** | 
-| ---- | ---- | --- | --- | --- | 
+| ---- | ---- | --- | --- | 
 | 👩‍💻 **1** |   *Alexa Nahuel|
 | 👩‍💻 **2** | * Aldo Rosales|
 | 👨‍💻 **3** | *|
