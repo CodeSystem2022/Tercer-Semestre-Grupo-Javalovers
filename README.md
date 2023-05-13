@@ -1,7 +1,6 @@
 # Tercer-Semestre-Grupo-Javalovers
 Entrega de los ejercicios realizados en las clases
-Trabajos semanales The JavaDabaDev's
-
+Trabajos semanales  Javalovers
 Encargados de presentar trabajos utilizando al metodo scrum :
 
 ✧ Semana ✧	✧ Scrum Master ✧
