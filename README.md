@@ -5,13 +5,17 @@ Trabajos semanales  del gruo Javalovers.
 
 ![LOGO 4](https://github.com/CodeSystem2022/Tercer-Semestre-Grupo-Javalovers/assets/112019412/81b9cf41-b756-4394-a8e8-ec9423770176)
 
+|**INTEGRANTES**|
+|-----------------|
+|**Alexa Nahuel**|
 
 
-| **Semana** | **Scrum Master** | **Anotaciones** |  |  |
+| **Semana** | **Scrum Master** | 
 | ---- | ---- | --- | --- | --- | 
 | 👩‍💻 **1** |   *Alexa Nahuel|
 | 👩‍💻 **2** | * Aldo Rosales|
-| 👨‍💻 **3** | *Jonathan Perez |
-| 👨‍💻 **4** | *Andres Carrizo|
-| 👨‍💻 **5** | *Javier Suarez | 
-| 👨‍💻 **6** | *Leon Alarcon |  
+| 👨‍💻 **3** | *|
+| 👨‍💻 **4** | *|
+| 👨‍💻 **5** | *| 
+| 👨‍💻 **6** | *|  
+
