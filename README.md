@@ -7,12 +7,12 @@ Trabajos semanale*s  del gruo Javalovers.
  
 | 👩‍💻**Integrantes**👩‍💻     |
 |--------------------------|
-| **Degastaldi, Fernanda Lucía** |
-| **Cabrera, Angel Gabriel** |
-| **Lopez, Debora Katerine** |
-| **Aparicio, Nicolás** |
-| **Garayalde Borges, Rodrigo** |
-| **Olea, María Eugenia** |
+| **Nahuel Alexa**|
+| **Rosales Aldo**|
+| **Perez Jonathan**|
+| **Suarez Javier**|
+| **Carrizo Andres**|
+| **Alarcon Leon** |
 
   
 
