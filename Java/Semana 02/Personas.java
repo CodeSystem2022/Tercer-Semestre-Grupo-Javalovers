@@ -10,3 +10,8 @@ static{ //Bloque de inicializacion estatico
        
     }
     
+    {//Bloque de inicializacion no estatico (contexto dinamico)
+        system.out.println("Ejecucion del bloque NO estatico");
+        this.idpersona - persona.contadorPersonas++;//incrementamos el atributo
+    }
+    
