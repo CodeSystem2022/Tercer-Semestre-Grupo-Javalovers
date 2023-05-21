@@ -1,4 +1,4 @@
-cREACION DE LA CLASE 3EXTENSION DE LA CLASE 1
+#cREACION DE LA CLASE 3EXTENSION DE LA CLASE 1
   package paquete2;
 
 import paquete1.Clase1;
@@ -15,7 +15,7 @@ public class Clase3 extends Clase1{
 }
 
 
-MODIFICACION A LA CLASE 1
+#MODIFICACION A LA CLASE 1
 package paquete1;
 
 public class Clase1 {
@@ -41,7 +41,7 @@ protected void metodoProtected(){
 }
 
 
-MODIFICACIONES DENTRO DE TESTMODIFICADORESDEACCESO
+#MODIFICACIONES DENTRO DE  TESTMODIFICADORESDEACCESO
 package test;
 
 import paquete1.Clase1;
