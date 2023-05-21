@@ -20,7 +20,7 @@ Trabajos semanales del grupo Javalovers.
 |----------------------|----------------------|
 |  1  | *Nahuel Alexa* |
 |  2  | *Rosales Aldo* |
-|  3  | ** |
+|  3  | *Suarez Javier* |
 |  4  | ** |
 |  5  | **|
 | 6 | *|
