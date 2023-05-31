@@ -9,3 +9,18 @@ public class Gerente extends Empleado{
         this.departamento = departamento;
     } 
 }
+
+
+
+
+
+
+
+
+//Archivo: testSobreescritura.java
+package test;
+
+public class testSobreescritura {
+    Gerente gerente1 = new Gerente("Jose", 5000, "Sistemas");
+    System.out.println("gerente1 = "+ gerente1.obtenerDetalles());  
+}
