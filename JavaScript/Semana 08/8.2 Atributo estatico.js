@@ -9,3 +9,8 @@ class Persona{ //Clase padre
         console.log("Se incrementa el contador: "+Persona.contadorObjetosPersona);
         
     }
+
+ //Modificaciones en el codigo   
+ //console.log(persona1.contadorObjetosPersona);
+console.log (Persona.contadorObjetosPersona);
+console.log (Empleado.contadorObjetosPersona);
