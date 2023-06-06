@@ -1,0 +1,4 @@
+--SELECT * FROM persona
+--UPDATE persona SET nombre = 'Ivonne', email= 'iesperanza@gmail.com' WHERE id_persona=3
+--SELECT * FROM persona
+--DELATE FROM persona WHERE id_persona = 3
