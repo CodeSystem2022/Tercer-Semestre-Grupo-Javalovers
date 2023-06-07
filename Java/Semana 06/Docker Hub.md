@@ -2,7 +2,7 @@
 
 Docker Hub es un servicio en la nube que permite a los usuarios subir y descargar imágenes Docker. Esencialmente, es como un repositorio o biblioteca de imágenes Docker. Estas imágenes pueden ser públicas o privadas.
 
-¿Que son las iamgenes Docker?
+¿Que son las imagenes Docker?
 
 Una imagen Docker es un archivo ejecutable que incluye todo lo necesario para ejecutar una aplicación, es decir, el código, las bibliotecas, las variables de entorno y los archivos de configuración. En pocas palabras, una imagen Docker es una instantánea estática del software y de su entorno.
 
