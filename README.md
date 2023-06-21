@@ -22,5 +22,5 @@ Trabajos semanales del grupo Javalovers.
 |  2  | *Rosales Aldo* |
 |  3  | *Suarez Javier* |
 |  4  | *Alarcon Leon* |
-|  5  | **|
+|  5  | *Carrizo Andres*|
 | 6 | *|
