@@ -23,7 +23,7 @@ Trabajos semanales del grupo Javalovers.
 |  3  | *Suarez Javier*|
 |  4  | *Alarcon Leon* |
 |  5  | *Carrizo Andres*|
-|  6  | *             *|
+|  6  | *Pérez Jonathan*|
 |  7  | *Nahuel Alexa* |
 |  8  | *Rosales Aldo* |
 |  9  | *Suarez Javier*|
