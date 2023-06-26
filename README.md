@@ -15,7 +15,6 @@ Se puede visualizar los trabajos semanales del grupo Javalovers.
 | **Carrizo Andres**|
 | **Alarcon Leon** |
 
-  
 
 | **Semana** | 💡 **Scrum Master** 💡    |
 |----------------------|----------------------|
