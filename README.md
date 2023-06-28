@@ -28,3 +28,5 @@ Se puede visualizar los trabajos semanales del grupo Javalovers.
 |  8  | *Rosales Aldo* |
 |  9  | *Suarez Javier*|
 | 10  | *Alarcon Leon* |
+| 11  | *Carrizo Andres*|
+| 12  | *Pérez Jonathan*|
