@@ -29,7 +29,7 @@ public class Persona{
     }
 
 
-    #Parte 2
+    #Parte 2 ALEXA NAHUEL
 
     public void setNombre(String nombre){
         this.nombre = nombre;
