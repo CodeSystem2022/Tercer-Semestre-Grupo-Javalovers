@@ -7,10 +7,11 @@ public class TestConversionObjetos {
         Empleado empleado;
         empleado = new Escritor("Juan", 5000, TipoEscritura.CLASICO);
         //System.out.println("empleado = " + empleado);
-        //System.out.println(empleado.obtenerDetalles());
+        //System.out.println(empleado.obtenerDetalles()); //si queremos acceder a metodos escritor
+        //empleado.getTipoEscritura(); No se puede hacer
         
         //Downcasting
-        ((Escritor)empleado).getTipoEscritura(); //una forma de hacerlo
+        ((Escritor)empleado).getTipoEscritura(); //una forma de hacerlo, Tenemos 2 opciones: esta es una
         
         Escritor escritor = (Escritor)empleado; //Segunda forma
         escritor.getTipoEscritura();
