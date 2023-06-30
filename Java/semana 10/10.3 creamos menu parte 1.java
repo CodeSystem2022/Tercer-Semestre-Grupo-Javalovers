@@ -11,7 +11,6 @@ public class ListadoPersonasApp {
         var salir = false;
         while(!salir){
             mostrarMenu();
+            System.out.println();
         }// Fin del ciclo while
     }// Fin metodo main
-    
-}
