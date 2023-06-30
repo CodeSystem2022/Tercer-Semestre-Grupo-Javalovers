@@ -55,6 +55,7 @@ console.log(persona1.nombre);
 persona1.nombre= 'Juan Carlos';
 console.log(persona1.nombre);
 //console.log(persona1);
+
 let persona2 = new Persona('Carlos','Lara');
 console.log(persona2.nombre);
 persona2.nombre= 'María Laura';
@@ -64,6 +65,12 @@ console.log(persona2.nombre);
 let empleado1 = new Empleado('María', 'Gimenez', 'Sistema');
 console.log(empleado1);
 console.log(empleado1.nombreCompleto());
+//console.log(persona3);
+
+let empleado2 = new Empleado('Luna', 'Martinez', 'Sistema');
+console.log(empleado1);
+console.log(empleado1.nombreCompleto());
+//console.log(persona3);
 
 //object.prototype.toString Esta es la manera de acceder a atributos y metodos de manera dinamica
 console.log(empleado1.toString());
