@@ -12,7 +12,7 @@ class Persona{ //Clase padre
         this._nombre = nombre;
     }
 }
-# parte 2
+
 let persona1 = new Persona('Martin','Perez');
 console.log(persona1.nombre);
 persona1.nombre= 'Juan Carlos';
