@@ -11,3 +11,4 @@ public class TestBloqueInicializacion {
         System.out.println("persona2 = " + persona2);
     }
 }
+
