@@ -1,4 +1,4 @@
-import psycopg2  #Esto es para poder conectarnos a 
+import psycopg2  #Esto es para poder conectarnos a PostgreSQL
 
 conexion = psycopg2.connect(
     user= 'postgres',
@@ -10,3 +10,15 @@ conexion = psycopg2.connect(
 try:
     with conexion:
         with conexion.cursor() as cursor:
+            sentencia = 'SELECT * FROM persona WHERE id_persona IN %s' # Placeholder
+            entrada = input('Digite los id_persona a buscar (separados por coma): ')
+            llaves_primarias = (tuple(entrada.split(', ')))
+            cursor.execute(sentencia) # Ejecutamos la sentencia
+            registros = cursor.fetchall() # Recuperamos todos los registros que seran una lista
+            for registro in registros:
+                print(registros)
+
+except Exception as e:
+    print(f'Ocurrio un error: {e}')
+finally:
+    conexion.close()
