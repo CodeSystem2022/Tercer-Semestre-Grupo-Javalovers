@@ -1,0 +1,19 @@
+ switch (operacion) {
+                    case 1 -> {//Suma
+                        resultado = operando1 + operando2;
+                        System.out.println("Resultado de la suma: " + resultado);
+                    }
+                    case 2 -> {//Resta
+                        resultado = operando1 - operando2;
+                        System.out.println("Resultado de la resta: " + resultado);
+                    }
+                    case 3 -> {//Multiplicacion
+                        resultado = operando1 * operando2;
+                        System.out.println("Resultado de la multiplicacion: " + resultado);
+                    }
+                    case 4 -> {//Division
+                        resultado = operando1 / operando2;
+                        System.out.println("Resultado de la division: " + resultado);
+                    }
+                    default -> System.out.println("Opcion erronea: " + operacion);
+                }//Fin switch
